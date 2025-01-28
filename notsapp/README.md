@@ -1,16 +1,34 @@
 # notsapp
 
-A new Flutter project.
+# Notes App
+The Notes App is a simple and user-friendly Flutter-based application that allows users to create, edit, and store their notes locally. It provides a seamless experience with smooth animations, efficient state management, and an elegant UI design. The app is perfect for anyone who needs to keep their thoughts, ideas, and to-dos organized in one place.
+## Notes App  mockup
 
-## Getting Started
+- Splash  screen
 
-This project is a starting point for a Flutter application.
+  ![alt text](<Splash Pic.PNG>)
+  
+ - Home Screens Feature
+  
+  ![alt text](<Home Feature Pic.PNG>)
 
-A few resources to get you started if this is your first Flutter project:
+ 
+  
+### Packages used in the project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [hive](https://pub.dev/packages/hive_flutter/versions)
+- [animated_text_kit](https://pub.dev/packages/animated_text_kit)
+- [shimmer](https://pub.dev/packages/shimmer)
+- [bloc](https://pub.dev/packages/bloc)
+- [flutter_bloc](https://pub.dev/packages/flutter_bloc)
+- [flutter_emoji](https://pub.dev/packages/flutter_emoji)
+- [intl](https://pub.dev/packages/intl)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+### in the project:
+
+- Cubit as State managment
+- Clean code
+
+
+
