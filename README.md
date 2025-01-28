@@ -2,15 +2,6 @@
 
 # Notes App
 The Notes App is a simple and user-friendly Flutter-based application that allows users to create, edit, and store their notes locally. It provides a seamless experience with smooth animations, efficient state management, and an elegant UI design. The app is perfect for anyone who needs to keep their thoughts, ideas, and to-dos organized in one place.
-## Notes App  mockup
-
-- Splash  screen
-
-  ![alt text](<Splash Pic.PNG>)
-  
- - Home Screens Feature
-  
-  ![alt text](<Home Feature Pic.PNG>)
 
  
   
